@@ -1,0 +1,10 @@
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\bin\Debug\Lab5_OOP_PartTwo.exe.config
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\bin\Debug\Lab5_OOP_PartTwo.exe
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\bin\Debug\Lab5_OOP_PartTwo.pdb
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\obj\Debug\Lab5_OOP_PartTwo.csproj.AssemblyReference.cache
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\obj\Debug\Lab5_OOP_PartTwo.Form1.resources
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\obj\Debug\Lab5_OOP_PartTwo.Properties.Resources.resources
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\obj\Debug\Lab5_OOP_PartTwo.csproj.GenerateResource.cache
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\obj\Debug\Lab5_OOP_PartTwo.csproj.CoreCompileInputs.cache
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\obj\Debug\Lab5_OOP_PartTwo.exe
+D:\Study\ООП\Semestr_2\Lab5_OOP-master\Lab5_OOP_PartTwo\obj\Debug\Lab5_OOP_PartTwo.pdb
